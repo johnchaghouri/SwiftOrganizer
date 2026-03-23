@@ -1,5 +1,3 @@
-# SwiftOrganizer
-A modern Python desktop utility to automatically organize files by type.
 # SwiftOrganize 
 A modern, high-speed desktop utility built with Python to instantly declutter your folders.
 
